@@ -15,7 +15,7 @@
     "https://www.youtube.com/*"
   ],
   "background": {
-    "service_worker": "background.js"
+    "scripts": ["background.js"]
   },
   "icons": {
     "32": "logo32.png"
